@@ -127,6 +127,6 @@
                 		</configuration>
 	  	 	</plugin>	
 		</plugins>
-		<finalName>kick-scooter-payment</finalName>
+		<finalName>kick-scooter-vehicle</finalName>
 	</build>
 </project>
