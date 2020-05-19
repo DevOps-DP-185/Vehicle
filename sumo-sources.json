@@ -3,7 +3,7 @@
   "source":{
      "sourceType":"LocalFile",
      "name":"vehicle",
-     "pathExpression":"/var/log/vehicle/spring.log",
+     "pathExpression":"/opt/tomcat/logs/**",
      "blacklist":[]
   }
 }
